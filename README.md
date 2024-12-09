@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 <h3 align="center">Junior Software Engineer / Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **My Portfolio Project**
-
-- 🌱 I’m currently learning **React, NodeJS, NextJS, MangoDB**
+- 🔭 I’m currently working on **Reacts Project**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
-- 🤝 I’m looking for help with **My Portfolio**
+*
 
 - 👨‍💻 All of my projects are available at [https://www.godaddy.com/en-pk/domainsearch/find?segment=repeat&domainToCheck=M-Hassan&tmskey=%5Bobject+Object%5D](https://www.godaddy.com/en-pk/domainsearch/find?segment=repeat&domainToCheck=M-Hassan&tmskey=%5Bobject+Object%5D)
 
